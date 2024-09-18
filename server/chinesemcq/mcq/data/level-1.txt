@@ -1,0 +1,150 @@
+爱  	1 ai4 to love verb  🗑
+八  	2 ba1 eight numeral  🗑
+爸爸  	3 ba4ba5 father noun  🗑
+杯子  	4 bei1zi5 cup noun  🗑
+北京  	5 Bei3jing1 Beijing noun  🗑
+本  	6 ben3 volume measure word  🗑
+不客气  	7 bu2ke4qi5 you're welcome verb  🗑
+不  	8 bu4 no adverb  🗑
+菜  	9 cai4 dish noun  🗑
+茶  	10 cha2 tea noun  🗑
+吃  	11 chi1 to eat verb  🗑
+出租车  	12 chu1zu1che1 taxi noun  🗑
+打電話  	13 da3 dian4hua4 to make a telephone call verb  🗑
+大  	14 da4 big adjective  🗑
+的  	15 de5 subordinating particle auxiliary  🗑
+点  	16 dian3 o'clock noun  🗑
+电脑  	17 dian4nao3 computer noun  🗑
+电视  	18 dian4shi4 television noun  🗑
+电影  	19 dian4ying3 movie noun  🗑
+东西  	20 dong1xi5 thing noun  🗑
+都  	21 dou1 all adverb  🗑
+读  	22 du2 to read verb  🗑
+对不起  	23 dui4bu5qi3 sorry verb  🗑
+多  	24 duo1 many, much adjective  🗑
+多少  	25 duo1shao5 how many, how much pronoun  🗑
+儿子  	26 er2zi5 son noun  🗑
+二  	27 er4 two numeral  🗑
+饭店  	28 fan4dian4 restaurant noun  🗑
+飞机  	29 fei1ji1 airplane noun  🗑
+高兴  	30 gao1xing4 happy adjective  🗑
+个  	31 ge4 measure word measure word  🗑
+工作  	32 gong1zuo4 to work verb  🗑
+狗  	33 gou3 dog noun  🗑
+汉语  	34 han4yu3 Chinese language noun  🗑
+好  	35 hao3 good, nice adjective  🗑
+喝  	36 he1 to drink verb  🗑
+和  	37 he2 and conjunction  🗑
+很  	38 hen3 very adverb  🗑
+后面  	39 hou4mian4 back noun  🗑
+回  	40 hui2 to come back verb  🗑
+会  	41 hui4 can verb  🗑
+火车站  	42 huo3che1zhan4 railway station noun  🗑
+几  	43 ji3 how many pronoun  🗑
+岁  	44 ji3 years, age measure word  🗑
+家  	45 jia1 home noun  🗑
+叫  	46 jiao4 to call verb  🗑
+今天  	47 jin1tian1 today noun  🗑
+九  	48 jiu3 nine numeral  🗑
+开  	49 kai1 to open verb  🗑
+看  	50 kan4 to look at verb  🗑
+看见  	51 kan4jian4 to see verb  🗑
+块  	52 kuai4 piece measure word  🗑
+来  	53 lai2 to come verb  🗑
+老师  	54 lao3shi1 teacher noun  🗑
+了  	55 le5 (past tense) auxiliary  🗑
+冷  	56 leng3 cold adjective  🗑
+里  	57 li3 inside noun  🗑
+零  	58 ling2 zero numeral  🗑
+六  	59 liu4 six numeral  🗑
+妈妈  	60 ma1ma5 mother noun  🗑
+吗  	61 ma5 question marker auxiliary  🗑
+买  	62 mai3 to buy verb  🗑
+猫  	63 mao1 cat noun  🗑
+没  	64 mei2 not adverb  🗑
+没关系  	65 mei2guan1xi5 it doesn't matter verb  🗑
+米饭  	66 mi3fan4 rice noun  🗑
+名字  	67 ming2zi5 name noun  🗑
+明天  	68 ming3tian1 tomorrow noun  🗑
+哪儿  	69 na3r where pronoun  🗑
+那  	70 na4 that pronoun  🗑
+呢  	71 ne5 (suggestion) auxiliary  🗑
+能  	72 neng2 to be able to verb  🗑
+你  	73 ni3 you, you pronoun  🗑
+你们  	74 ni3men5 you, you pronoun  🗑
+年  	75 nian2 year noun  🗑
+女儿  	76 nv3er2 daughter noun  🗑
+朋友  	77 peng2you5 friend noun  🗑
+苹果  	78 ping2guo3 apple noun  🗑
+七  	79 qi1 seven numeral  🗑
+钱  	80 qian2 money noun  🗑
+前面  	81 qian2mian4 front noun  🗑
+请  	82 qing3 please verb  🗑
+去  	83 qu4 to go verb  🗑
+热  	84 re4 hot adjective  🗑
+人  	85 ren2 people noun  🗑
+认识  	86 ren4shi5 to know verb  🗑
+日  	87 ri4 day noun  🗑
+三  	88 san1 three numeral  🗑
+商店  	89 shang1dian4 shop noun  🗑
+上  	90 shang4 above noun  🗑
+上午  	91 shang4wu3 morning noun  🗑
+少  	92 shao3 few, little adjective  🗑
+什么  	93 shen2me5 what pronoun  🗑
+十  	94 shi2 ten numeral  🗑
+时候  	95 shi2hou4 time, when noun  🗑
+是  	96 shi4 to be verb  🗑
+书  	97 shu1 book noun  🗑
+谁  	98 shui2 who pronoun  🗑
+水  	99 shui3 water noun  🗑
+水果  	100 shui3guo3 fruit noun  🗑
+睡覺  	101 shui4jiao4 to sleep verb  🗑
+说话  	102 shuo1hua4 to say verb  🗑
+四  	103 si4 four numeral  🗑
+他  	104 ta1 he, him pronoun  🗑
+她  	105 ta1 she, her pronoun  🗑
+他们  	106 ta1men5 they, them pronoun  🗑
+她们  	107 ta1men5 they, them pronoun  🗑
+太  	108 tai4 too adverb  🗑
+天气  	109 tian1qi4 weather noun  🗑
+听  	110 ting1 to listen verb  🗑
+同学  	111 tong2xue2 classmate noun  🗑
+我  	112 wo3 I, me pronoun  🗑
+我们  	113 wo3men5 we, us pronoun  🗑
+五  	114 wu3 five numeral  🗑
+喜欢  	115 xi3huan5 to like verb  🗑
+下  	116 xia4 below noun  🗑
+下午  	117 xia4wu3 afternoon noun  🗑
+下雨  	118 xia4yu3 to rain verb  🗑
+先生  	119 xian1sheng5 mister noun  🗑
+现在  	120 xian4zai4 now noun  🗑
+想  	121 xiang3 to think verb  🗑
+小  	122 xiao3 small adjective  🗑
+小姐  	123 xiao3jie3 miss noun  🗑
+些  	124 xie1 a few measure word  🗑
+写  	125 xie3 to write verb  🗑
+谢谢  	126 xie4xie5 thanks verb  🗑
+星期  	127 xing1qi1 week noun  🗑
+学生  	128 xue2sheng1 student noun  🗑
+学习  	129 xue2xi2 to study verb  🗑
+学校  	130 xue2xiao4 school noun  🗑
+一  	131 yi1 one numeral  🗑
+衣服  	132 yi1fu5 clothing noun  🗑
+医生  	133 yi1sheng1 doctor noun  🗑
+医院  	134 yi1yuan4 hospital noun  🗑
+椅子  	135 yi3zi5 chair noun  🗑
+有  	136 you3 to have verb  🗑
+月  	137 yue4 month noun  🗑
+在  	138 zai4 at preposition  🗑
+再见  	139 zai4jian4 good-bye verb  🗑
+怎么  	140 zen3me5 how pronoun  🗑
+怎么样  	141 zen3me5yang4 how about pronoun  🗑
+这  	142 zhe4 this pronoun  🗑
+中国  	143 Zhong1guo2 China noun  🗑
+中午  	144 zhong1wu3 noon noun  🗑
+住  	145 zhu4 to live verb  🗑
+桌子  	146 zhuo1zi5 table noun  🗑
+字  	147 zi4 Chinese character noun  🗑
+昨天  	148 zuo2tian1 yesterday noun  🗑
+做  	149 zuo4 to do verb  🗑
+坐  	150 zuo4 to sit verb  🗑
