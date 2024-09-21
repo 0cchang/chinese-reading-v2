@@ -13,10 +13,12 @@ def getQuestion(request):
 @api_view(['GET'])
 def getCharacterFromOmega(request):
     id = request.query_params.get('id')  # Use query_params with REST framework
+    print(id)
     if id is not None and id.isdigit():
         character_id = int(id)
         try:
             character_obj = omegaCharacter.objects.get(unique_id=character_id)
+            print(character_obj.character)
             return Response({'character': character_obj.character}, status=status.HTTP_200_OK)
         except omegaCharacter.DoesNotExist:
             return Response({'error': 'Character not found'}, status=status.HTTP_404_NOT_FOUND)
