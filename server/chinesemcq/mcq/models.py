@@ -17,3 +17,9 @@ class omegaCharacter(models.Model):
     def __str__(self):
         return f'{self.character} -> {self.unique_id}'
 
+class SavedText(models.Model):
+    text = models.TextField()
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return self.text[:50]

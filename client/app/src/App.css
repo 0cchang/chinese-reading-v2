@@ -40,3 +40,25 @@
 .read-the-docs {
   color: #888;
 }
+
+.pip-window {
+  width: 200px;
+  height: 400px;
+  overflow: auto;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.char-box {
+  font-size: 24px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.char-box.highlight {
+  background-color: navy;
+  border: 2px solid red;
+}
